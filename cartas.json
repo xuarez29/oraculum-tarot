@@ -1,0 +1,626 @@
+[
+  {
+    "code": "ar00",
+    "nombre": "El Loco",
+    "significado_derecha": "Nuevos comienzos, libertad, espontaneidad.",
+    "significado_invertida": "Irresponsabilidad, decisiones impulsivas, falta de dirección.",
+    "img": "images/major_arcana_fool.jpeg",
+    "img_invertida": "images/major_arcana_fool_reversed.jpeg"
+  },
+  {
+    "code": "ar01",
+    "nombre": "El Mago",
+    "significado_derecha": "Iniciativa, poder personal, creatividad.",
+    "significado_invertida": "Manipulación, ilusiones, uso egoísta del poder.",
+    "img": "images/major_arcana_magician.jpeg",
+    "img_invertida": "images/major_arcana_magician_reversed.jpeg"
+  },
+  {
+    "code": "ar02",
+    "nombre": "La Sacerdotisa",
+    "significado_derecha": "Sabiduría interior, intuición, lo oculto.",
+    "significado_invertida": "Secretos, desconexión espiritual, pasividad.",
+    "img": "images/major_arcana_priestess.jpeg",
+    "img_invertida": "images/major_arcana_priestess_reversed.jpeg"
+  },
+  {
+    "code": "ar03",
+    "nombre": "La Emperatriz",
+    "significado_derecha": "Abundancia, fertilidad, creatividad maternal.",
+    "significado_invertida": "Dependencia, excesos, falta de control emocional.",
+    "img": "images/major_arcana_empress.jpeg",
+    "img_invertida": "images/major_arcana_empress_reversed.jpeg"
+  },
+  {
+    "code": "ar04",
+    "nombre": "El Emperador",
+    "significado_derecha": "Autoridad, estructura, control.",
+    "significado_invertida": "Tiranía, rigidez, abuso de poder.",
+    "img": "images/major_arcana_emperor.jpeg",
+    "img_invertida": "images/major_arcana_emperor_reversed.jpeg"
+  },
+  {
+    "code": "ar05",
+    "nombre": "El Hierofante",
+    "significado_derecha": "Tradición, guía espiritual, mentor.",
+    "significado_invertida": "Dogmatismo, rebelión, falsos líderes.",
+    "img": "images/major_arcana_hierophant.jpeg",
+    "img_invertida": "images/major_arcana_hierophant_reversed.jpeg"
+  },
+  {
+    "code": "ar06",
+    "nombre": "Los Enamorados",
+    "significado_derecha": "Amor, decisiones, armonía.",
+    "significado_invertida": "Indecisión, conflictos emocionales, tentación.",
+    "img": "images/major_arcana_lovers.jpeg",
+    "img_invertida": "images/major_arcana_lovers_reversed.jpeg"
+  },
+  {
+    "code": "ar07",
+    "nombre": "El Carro",
+    "significado_derecha": "Voluntad, triunfo, control sobre el destino.",
+    "significado_invertida": "Impulsividad, pérdida de rumbo, arrogancia.",
+    "img": "images/major_arcana_chariot.jpeg",
+    "img_invertida": "images/major_arcana_chariot_reversed.jpeg"
+  },
+  {
+    "code": "ar08",
+    "nombre": "La Fuerza",
+    "significado_derecha": "Valor, autocontrol, fortaleza interior.",
+    "significado_invertida": "Falta de confianza, debilidad emocional.",
+    "img": "images/major_arcana_strength.jpeg",
+    "img_invertida": "images/major_arcana_strength_reversed.jpeg"
+  },
+  {
+    "code": "ar09",
+    "nombre": "El Ermitaño",
+    "significado_derecha": "Búsqueda interior, introspección, soledad elegida.",
+    "significado_invertida": "Aislamiento, negación de ayuda, estancamiento.",
+    "img": "images/major_arcana_hermit.jpeg",
+    "img_invertida": "images/major_arcana_hermit_reversed.jpeg"
+  },
+  {
+    "code": "ar10",
+    "nombre": "La Rueda de la Fortuna",
+    "significado_derecha": "Cambio de destino, ciclos, suerte.",
+    "significado_invertida": "Inestabilidad, obstáculos, falta de control.",
+    "img": "images/major_arcana_fortune.jpeg",
+    "img_invertida": "images/major_arcana_fortune_reversed.jpeg"
+  },
+  {
+    "code": "ar11",
+    "nombre": "La Justicia",
+    "significado_derecha": "Equilibrio, verdad, justicia divina.",
+    "significado_invertida": "Injusticia, falta de responsabilidad, deshonestidad.",
+    "img": "images/major_arcana_justice.jpeg",
+    "img_invertida": "images/major_arcana_justice_reversed.jpeg"
+  },
+  {
+    "code": "ar12",
+    "nombre": "El Colgado",
+    "significado_derecha": "Entrega, nuevos puntos de vista, aceptación.",
+    "significado_invertida": "Estancamiento, sacrificios innecesarios, apatía.",
+    "img": "images/major_arcana_hanged.jpeg",
+    "img_invertida": "images/major_arcana_hanged_reversed.jpeg"
+  },
+  {
+    "code": "ar13",
+    "nombre": "La Muerte",
+    "significado_derecha": "Transformación, renacimiento, cierre de ciclos.",
+    "significado_invertida": "Resistencia al cambio, miedo, estancamiento.",
+    "img": "images/major_arcana_death.jpeg",
+    "img_invertida": "images/major_arcana_death_reversed.jpeg"
+  },
+  {
+    "code": "ar14",
+    "nombre": "La Templanza",
+    "significado_derecha": "Equilibrio emocional, moderación, paciencia.",
+    "significado_invertida": "Desequilibrio, exceso, caos emocional.",
+    "img": "images/major_arcana_temperance.jpeg",
+    "img_invertida": "images/major_arcana_temperance_reversed.jpeg"
+  },
+  {
+    "code": "ar15",
+    "nombre": "El Diablo",
+    "significado_derecha": "Ataduras, obsesiones, deseos materiales.",
+    "significado_invertida": "Liberación, consciencia, rompimiento de cadenas.",
+    "img": "images/major_arcana_devil.jpeg",
+    "img_invertida": "images/major_arcana_devil_reversed.jpeg"
+  },
+  {
+    "code": "ar16",
+    "nombre": "La Torre",
+    "significado_derecha": "Cambio repentino, crisis, revelación.",
+    "significado_invertida": "Evitación del cambio, miedo, represión.",
+    "img": "images/major_arcana_tower.jpeg",
+    "img_invertida": "images/major_arcana_tower_reversed.jpeg"
+  },
+  {
+    "code": "ar17",
+    "nombre": "La Estrella",
+    "significado_derecha": "Esperanza, inspiración, renovación.",
+    "significado_invertida": "Pérdida de fe, desesperanza, desconexión.",
+    "img": "images/major_arcana_star.jpeg",
+    "img_invertida": "images/major_arcana_star_reversed.jpeg"
+  },
+  {
+    "code": "ar18",
+    "nombre": "La Luna",
+    "significado_derecha": "Intuición, sueños, misterios ocultos.",
+    "significado_invertida": "Confusión, engaños, ilusiones.",
+    "img": "images/major_arcana_moon.jpeg",
+    "img_invertida": "images/major_arcana_moon_reversed.jpeg"
+  },
+  {
+    "code": "ar19",
+    "nombre": "El Sol",
+    "significado_derecha": "Éxito, vitalidad, claridad.",
+    "significado_invertida": "Exceso de ego, falsos logros, orgullo.",
+    "img": "images/major_arcana_sun.jpeg",
+    "img_invertida": "images/major_arcana_sun_reversed.jpeg"
+  },
+  {
+    "code": "ar20",
+    "nombre": "El Juicio",
+    "significado_derecha": "Despertar, llamado interior, renovación espiritual.",
+    "significado_invertida": "Negación, estancamiento, miedo al cambio.",
+    "img": "images/major_arcana_judgement.jpeg",
+    "img_invertida": "images/major_arcana_judgement_reversed.jpeg"
+  },
+  {
+    "code": "ar21",
+    "nombre": "El Mundo",
+    "significado_derecha": "Logro, plenitud, realización.",
+    "significado_invertida": "Incompletitud, finales sin cerrar, falta de integración.",
+    "img": "images/major_arcana_world.jpeg",
+    "img_invertida": "images/major_arcana_world_reversed.jpeg"
+  },
+  {
+    "code": "w01",
+    "nombre": "As de Bastos",
+    "significado_derecha": "Nuevos comienzos, potencial",
+    "significado_invertida": "Falta de iniciativa, dudas",
+    "img": "images/minor_arcana_wands_ace.jpeg",
+    "img_invertida": "images/minor_arcana_wands_ace_reversed.jpeg"
+  },
+  {
+    "code": "w02",
+    "nombre": "Dos de Bastos",
+    "significado_derecha": "Equilibrio, decisiones",
+    "significado_invertida": "Indecisión, conflictos internos",
+    "img": "images/minor_arcana_wands_2.jpeg",
+    "img_invertida": "images/minor_arcana_wands_2_reversed.jpeg"
+  },
+  {
+    "code": "w03",
+    "nombre": "Tres de Bastos",
+    "significado_derecha": "Colaboración, progreso inicial",
+    "significado_invertida": "Retrasos, falta de visión",
+    "img": "images/minor_arcana_wands_3.jpeg",
+    "img_invertida": "images/minor_arcana_wands_3_reversed.jpeg"
+  },
+  {
+    "code": "w04",
+    "nombre": "Cuatro de Bastos",
+    "significado_derecha": "Estabilidad, celebración",
+    "significado_invertida": "Estancamiento, falta de gratitud",
+    "img": "images/minor_arcana_wands_4.jpeg",
+    "img_invertida": "images/minor_arcana_wands_4_reversed.jpeg"
+  },
+  {
+    "code": "w05",
+    "nombre": "Cinco de Bastos",
+    "significado_derecha": "Conflicto, desafío",
+    "significado_invertida": "Superación de obstáculos, resolución",
+    "img": "images/minor_arcana_wands_5.jpeg",
+    "img_invertida": "images/minor_arcana_wands_5_reversed.jpeg"
+  },
+  {
+    "code": "w06",
+    "nombre": "Seis de Bastos",
+    "significado_derecha": "Victoria, reconocimiento",
+    "significado_invertida": "Egoísmo, falsa victoria",
+    "img": "images/minor_arcana_wands_6.jpeg",
+    "img_invertida": "images/minor_arcana_wands_6_reversed.jpeg"
+  },
+  {
+    "code": "w07",
+    "nombre": "Siete de Bastos",
+    "significado_derecha": "Defensa, perseverancia",
+    "significado_invertida": "Agotamiento, lucha innecesaria",
+    "img": "images/minor_arcana_wands_7.jpeg",
+    "img_invertida": "images/minor_arcana_wands_7_reversed.jpeg"
+  },
+  {
+    "code": "w08",
+    "nombre": "Ocho de Bastos",
+    "significado_derecha": "Movimiento rápido, comunicación",
+    "significado_invertida": "Frenos, confusión",
+    "img": "images/minor_arcana_wands_8.jpeg",
+    "img_invertida": "images/minor_arcana_wands_8_reversed.jpeg"
+  },
+  {
+    "code": "w09",
+    "nombre": "Nueve de Bastos",
+    "significado_derecha": "Resiliencia, fortaleza interior",
+    "significado_invertida": "Desgaste, desconfianza",
+    "img": "images/minor_arcana_wands_9.jpeg",
+    "img_invertida": "images/minor_arcana_wands_9_reversed.jpeg"
+  },
+  {
+    "code": "w10",
+    "nombre": "Diez de Bastos",
+    "significado_derecha": "Carga, responsabilidad",
+    "significado_invertida": "Liberación de cargas, delegar",
+    "img": "images/minor_arcana_wands_10.jpeg",
+    "img_invertida": "images/minor_arcana_wands_10_reversed.jpeg"
+  },
+  {
+    "code": "wpa",
+    "nombre": "Paje de Bastos",
+    "significado_derecha": "Noticias, comienzos emocionales",
+    "significado_invertida": "Inmadurez, superficialidad",
+    "img": "images/minor_arcana_wands_page.jpeg",
+    "img_invertida": "images/minor_arcana_wands_page_reversed.jpeg"
+  },
+  {
+    "code": "wkn",
+    "nombre": "Caballero de Bastos",
+    "significado_derecha": "Acción, impulso decidido",
+    "significado_invertida": "Impaciencia, impulsividad",
+    "img": "images/minor_arcana_wands_knight.jpeg",
+    "img_invertida": "images/minor_arcana_wands_knight_reversed.jpeg"
+  },
+  {
+    "code": "wqu",
+    "nombre": "Reina de Bastos",
+    "significado_derecha": "Madurez emocional, intuición",
+    "significado_invertida": "Frialdad emocional, inseguridad",
+    "img": "images/minor_arcana_wands_queen.jpeg",
+    "img_invertida": "images/minor_arcana_wands_queen_reversed.jpeg"
+  },
+  {
+    "code": "wki",
+    "nombre": "Rey de Bastos",
+    "significado_derecha": "Liderazgo maduro, autoridad",
+    "significado_invertida": "Autoritarismo, rigidez",
+    "img": "images/minor_arcana_wands_king.jpeg",
+    "img_invertida": "images/minor_arcana_wands_king_reversed.jpeg"
+  },
+  {
+    "code": "c01",
+    "nombre": "As de Copas",
+    "significado_derecha": "Nuevos comienzos, potencial",
+    "significado_invertida": "Falta de iniciativa, dudas",
+    "img": "images/minor_arcana_cups_ace.jpeg",
+    "img_invertida": "images/minor_arcana_cups_ace_reversed.jpeg"
+  },
+  {
+    "code": "c02",
+    "nombre": "Dos de Copas",
+    "significado_derecha": "Equilibrio, decisiones",
+    "significado_invertida": "Indecisión, conflictos internos",
+    "img": "images/minor_arcana_cups_2.jpeg",
+    "img_invertida": "images/minor_arcana_cups_2_reversed.jpeg"
+  },
+  {
+    "code": "c03",
+    "nombre": "Tres de Copas",
+    "significado_derecha": "Colaboración, progreso inicial",
+    "significado_invertida": "Retrasos, falta de visión",
+    "img": "images/minor_arcana_cups_3.jpeg",
+    "img_invertida": "images/minor_arcana_cups_3_reversed.jpeg"
+  },
+  {
+    "code": "c04",
+    "nombre": "Cuatro de Copas",
+    "significado_derecha": "Estabilidad, celebración",
+    "significado_invertida": "Estancamiento, falta de gratitud",
+    "img": "images/minor_arcana_cups_4.jpeg",
+    "img_invertida": "images/minor_arcana_cups_4_reversed.jpeg"
+  },
+  {
+    "code": "c05",
+    "nombre": "Cinco de Copas",
+    "significado_derecha": "Conflicto, desafío",
+    "significado_invertida": "Superación de obstáculos, resolución",
+    "img": "images/minor_arcana_cups_5.jpeg",
+    "img_invertida": "images/minor_arcana_cups_5_reversed.jpeg"
+  },
+  {
+    "code": "c06",
+    "nombre": "Seis de Copas",
+    "significado_derecha": "Victoria, reconocimiento",
+    "significado_invertida": "Egoísmo, falsa victoria",
+    "img": "images/minor_arcana_cups_6.jpeg",
+    "img_invertida": "images/minor_arcana_cups_6_reversed.jpeg"
+  },
+  {
+    "code": "c07",
+    "nombre": "Siete de Copas",
+    "significado_derecha": "Defensa, perseverancia",
+    "significado_invertida": "Agotamiento, lucha innecesaria",
+    "img": "images/minor_arcana_cups_7.jpeg",
+    "img_invertida": "images/minor_arcana_cups_7_reversed.jpeg"
+  },
+  {
+    "code": "c08",
+    "nombre": "Ocho de Copas",
+    "significado_derecha": "Movimiento rápido, comunicación",
+    "significado_invertida": "Frenos, confusión",
+    "img": "images/minor_arcana_cups_8.jpeg",
+    "img_invertida": "images/minor_arcana_cups_8_reversed.jpeg"
+  },
+  {
+    "code": "c09",
+    "nombre": "Nueve de Copas",
+    "significado_derecha": "Resiliencia, fortaleza interior",
+    "significado_invertida": "Desgaste, desconfianza",
+    "img": "images/minor_arcana_cups_9.jpeg",
+    "img_invertida": "images/minor_arcana_cups_9_reversed.jpeg"
+  },
+  {
+    "code": "c10",
+    "nombre": "Diez de Copas",
+    "significado_derecha": "Carga, responsabilidad",
+    "significado_invertida": "Liberación de cargas, delegar",
+    "img": "images/minor_arcana_cups_10.jpeg",
+    "img_invertida": "images/minor_arcana_cups_10_reversed.jpeg"
+  },
+  {
+    "code": "cpa",
+    "nombre": "Paje de Copas",
+    "significado_derecha": "Noticias, comienzos emocionales",
+    "significado_invertida": "Inmadurez, superficialidad",
+    "img": "images/minor_arcana_cups_page.jpeg",
+    "img_invertida": "images/minor_arcana_cups_page_reversed.jpeg"
+  },
+  {
+    "code": "ckn",
+    "nombre": "Caballero de Copas",
+    "significado_derecha": "Acción, impulso decidido",
+    "significado_invertida": "Impaciencia, impulsividad",
+    "img": "images/minor_arcana_cups_knight.jpeg",
+    "img_invertida": "images/minor_arcana_cups_knight_reversed.jpeg"
+  },
+  {
+    "code": "cqu",
+    "nombre": "Reina de Copas",
+    "significado_derecha": "Madurez emocional, intuición",
+    "significado_invertida": "Frialdad emocional, inseguridad",
+    "img": "images/minor_arcana_cups_queen.jpeg",
+    "img_invertida": "images/minor_arcana_cups_queen_reversed.jpeg"
+  },
+  {
+    "code": "cki",
+    "nombre": "Rey de Copas",
+    "significado_derecha": "Liderazgo maduro, autoridad",
+    "significado_invertida": "Autoritarismo, rigidez",
+    "img": "images/minor_arcana_cups_king.jpeg",
+    "img_invertida": "images/minor_arcana_cups_king_reversed.jpeg"
+  },
+  {
+    "code": "s01",
+    "nombre": "As de Espadas",
+    "significado_derecha": "Nuevos comienzos, potencial",
+    "significado_invertida": "Falta de iniciativa, dudas",
+    "img": "images/minor_arcana_swords_ace.jpeg",
+    "img_invertida": "images/minor_arcana_swords_ace_reversed.jpeg"
+  },
+  {
+    "code": "s02",
+    "nombre": "Dos de Espadas",
+    "significado_derecha": "Equilibrio, decisiones",
+    "significado_invertida": "Indecisión, conflictos internos",
+    "img": "images/minor_arcana_swords_2.jpeg",
+    "img_invertida": "images/minor_arcana_swords_2_reversed.jpeg"
+  },
+  {
+    "code": "s03",
+    "nombre": "Tres de Espadas",
+    "significado_derecha": "Colaboración, progreso inicial",
+    "significado_invertida": "Retrasos, falta de visión",
+    "img": "images/minor_arcana_swords_3.jpeg",
+    "img_invertida": "images/minor_arcana_swords_3_reversed.jpeg"
+  },
+  {
+    "code": "s04",
+    "nombre": "Cuatro de Espadas",
+    "significado_derecha": "Estabilidad, celebración",
+    "significado_invertida": "Estancamiento, falta de gratitud",
+    "img": "images/minor_arcana_swords_4.jpeg",
+    "img_invertida": "images/minor_arcana_swords_4_reversed.jpeg"
+  },
+  {
+    "code": "s05",
+    "nombre": "Cinco de Espadas",
+    "significado_derecha": "Conflicto, desafío",
+    "significado_invertida": "Superación de obstáculos, resolución",
+    "img": "images/minor_arcana_swords_5.jpeg",
+    "img_invertida": "images/minor_arcana_swords_5_reversed.jpeg"
+  },
+  {
+    "code": "s06",
+    "nombre": "Seis de Espadas",
+    "significado_derecha": "Victoria, reconocimiento",
+    "significado_invertida": "Egoísmo, falsa victoria",
+    "img": "images/minor_arcana_swords_6.jpeg",
+    "img_invertida": "images/minor_arcana_swords_6_reversed.jpeg"
+  },
+  {
+    "code": "s07",
+    "nombre": "Siete de Espadas",
+    "significado_derecha": "Defensa, perseverancia",
+    "significado_invertida": "Agotamiento, lucha innecesaria",
+    "img": "images/minor_arcana_swords_7.jpeg",
+    "img_invertida": "images/minor_arcana_swords_7_reversed.jpeg"
+  },
+  {
+    "code": "s08",
+    "nombre": "Ocho de Espadas",
+    "significado_derecha": "Movimiento rápido, comunicación",
+    "significado_invertida": "Frenos, confusión",
+    "img": "images/minor_arcana_swords_8.jpeg",
+    "img_invertida": "images/minor_arcana_swords_8_reversed.jpeg"
+  },
+  {
+    "code": "s09",
+    "nombre": "Nueve de Espadas",
+    "significado_derecha": "Resiliencia, fortaleza interior",
+    "significado_invertida": "Desgaste, desconfianza",
+    "img": "images/minor_arcana_swords_9.jpeg",
+    "img_invertida": "images/minor_arcana_swords_9_reversed.jpeg"
+  },
+  {
+    "code": "s10",
+    "nombre": "Diez de Espadas",
+    "significado_derecha": "Carga, responsabilidad",
+    "significado_invertida": "Liberación de cargas, delegar",
+    "img": "images/minor_arcana_swords_10.jpeg",
+    "img_invertida": "images/minor_arcana_swords_10_reversed.jpeg"
+  },
+  {
+    "code": "spa",
+    "nombre": "Paje de Espadas",
+    "significado_derecha": "Noticias, comienzos emocionales",
+    "significado_invertida": "Inmadurez, superficialidad",
+    "img": "images/minor_arcana_swords_page.jpeg",
+    "img_invertida": "images/minor_arcana_swords_page_reversed.jpeg"
+  },
+  {
+    "code": "skn",
+    "nombre": "Caballero de Espadas",
+    "significado_derecha": "Acción, impulso decidido",
+    "significado_invertida": "Impaciencia, impulsividad",
+    "img": "images/minor_arcana_swords_knight.jpeg",
+    "img_invertida": "images/minor_arcana_swords_knight_reversed.jpeg"
+  },
+  {
+    "code": "squ",
+    "nombre": "Reina de Espadas",
+    "significado_derecha": "Madurez emocional, intuición",
+    "significado_invertida": "Frialdad emocional, inseguridad",
+    "img": "images/minor_arcana_swords_queen.jpeg",
+    "img_invertida": "images/minor_arcana_swords_queen_reversed.jpeg"
+  },
+  {
+    "code": "ski",
+    "nombre": "Rey de Espadas",
+    "significado_derecha": "Liderazgo maduro, autoridad",
+    "significado_invertida": "Autoritarismo, rigidez",
+    "img": "images/minor_arcana_swords_king.jpeg",
+    "img_invertida": "images/minor_arcana_swords_king_reversed.jpeg"
+  },
+  {
+    "code": "p01",
+    "nombre": "As de Oros",
+    "significado_derecha": "Nuevos comienzos, potencial",
+    "significado_invertida": "Falta de iniciativa, dudas",
+    "img": "images/minor_arcana_pentacles_ace.jpeg",
+    "img_invertida": "images/minor_arcana_pentacles_ace_reversed.jpeg"
+  },
+  {
+    "code": "p02",
+    "nombre": "Dos de Oros",
+    "significado_derecha": "Equilibrio, decisiones",
+    "significado_invertida": "Indecisión, conflictos internos",
+    "img": "images/minor_arcana_pentacles_2.jpeg",
+    "img_invertida": "images/minor_arcana_pentacles_2_reversed.jpeg"
+  },
+  {
+    "code": "p03",
+    "nombre": "Tres de Oros",
+    "significado_derecha": "Colaboración, progreso inicial",
+    "significado_invertida": "Retrasos, falta de visión",
+    "img": "images/minor_arcana_pentacles_3.jpeg",
+    "img_invertida": "images/minor_arcana_pentacles_3_reversed.jpeg"
+  },
+  {
+    "code": "p04",
+    "nombre": "Cuatro de Oros",
+    "significado_derecha": "Estabilidad, celebración",
+    "significado_invertida": "Estancamiento, falta de gratitud",
+    "img": "images/minor_arcana_pentacles_4.jpeg",
+    "img_invertida": "images/minor_arcana_pentacles_4_reversed.jpeg"
+  },
+  {
+    "code": "p05",
+    "nombre": "Cinco de Oros",
+    "significado_derecha": "Conflicto, desafío",
+    "significado_invertida": "Superación de obstáculos, resolución",
+    "img": "images/minor_arcana_pentacles_5.jpeg",
+    "img_invertida": "images/minor_arcana_pentacles_5_reversed.jpeg"
+  },
+  {
+    "code": "p06",
+    "nombre": "Seis de Oros",
+    "significado_derecha": "Victoria, reconocimiento",
+    "significado_invertida": "Egoísmo, falsa victoria",
+    "img": "images/minor_arcana_pentacles_6.jpeg",
+    "img_invertida": "images/minor_arcana_pentacles_6_reversed.jpeg"
+  },
+  {
+    "code": "p07",
+    "nombre": "Siete de Oros",
+    "significado_derecha": "Defensa, perseverancia",
+    "significado_invertida": "Agotamiento, lucha innecesaria",
+    "img": "images/minor_arcana_pentacles_7.jpeg",
+    "img_invertida": "images/minor_arcana_pentacles_7_reversed.jpeg"
+  },
+  {
+    "code": "p08",
+    "nombre": "Ocho de Oros",
+    "significado_derecha": "Movimiento rápido, comunicación",
+    "significado_invertida": "Frenos, confusión",
+    "img": "images/minor_arcana_pentacles_8.jpeg",
+    "img_invertida": "images/minor_arcana_pentacles_8_reversed.jpeg"
+  },
+  {
+    "code": "p09",
+    "nombre": "Nueve de Oros",
+    "significado_derecha": "Resiliencia, fortaleza interior",
+    "significado_invertida": "Desgaste, desconfianza",
+    "img": "images/minor_arcana_pentacles_9.jpeg",
+    "img_invertida": "images/minor_arcana_pentacles_9_reversed.jpeg"
+  },
+  {
+    "code": "p10",
+    "nombre": "Diez de Oros",
+    "significado_derecha": "Carga, responsabilidad",
+    "significado_invertida": "Liberación de cargas, delegar",
+    "img": "images/minor_arcana_pentacles_10.jpeg",
+    "img_invertida": "images/minor_arcana_pentacles_10_reversed.jpeg"
+  },
+  {
+    "code": "ppa",
+    "nombre": "Paje de Oros",
+    "significado_derecha": "Noticias, comienzos emocionales",
+    "significado_invertida": "Inmadurez, superficialidad",
+    "img": "images/minor_arcana_pentacles_page.jpeg",
+    "img_invertida": "images/minor_arcana_pentacles_page_reversed.jpeg"
+  },
+  {
+    "code": "pkn",
+    "nombre": "Caballero de Oros",
+    "significado_derecha": "Acción, impulso decidido",
+    "significado_invertida": "Impaciencia, impulsividad",
+    "img": "images/minor_arcana_pentacles_knight.jpeg",
+    "img_invertida": "images/minor_arcana_pentacles_knight_reversed.jpeg"
+  },
+  {
+    "code": "pqu",
+    "nombre": "Reina de Oros",
+    "significado_derecha": "Madurez emocional, intuición",
+    "significado_invertida": "Frialdad emocional, inseguridad",
+    "img": "images/minor_arcana_pentacles_queen.jpeg",
+    "img_invertida": "images/minor_arcana_pentacles_queen_reversed.jpeg"
+  },
+  {
+    "code": "pki",
+    "nombre": "Rey de Oros",
+    "significado_derecha": "Liderazgo maduro, autoridad",
+    "significado_invertida": "Autoritarismo, rigidez",
+    "img": "images/minor_arcana_pentacles_king.jpeg",
+    "img_invertida": "images/minor_arcana_pentacles_king_reversed.jpeg"
+  }
+]

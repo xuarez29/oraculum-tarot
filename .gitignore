@@ -1,0 +1,26 @@
+# Streamlit temporary files
+.streamlit/
+
+# macOS system files
+.DS_Store
+
+# VS Code files
+.vscode/
+
+# Jupyter Notebook checkpoints (por si en algún futuro usas notebooks)
+.ipynb_checkpoints/
+
+# General system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python virtual environment folders
+env/
+venv/
+.venv/
+
+# Ignorar imágenes grandes para el push
+*.jpeg
+*.jpg
+.env
